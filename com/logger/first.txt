@@ -1,0 +1,10 @@
+Sept 16, 2023 9:54:23 PM com.logger.First init
+INFO: logger initalized
+Sept 16, 2023 9:54:23 PM com.logger.First main
+INFO: starting of code...
+Sept 16, 2023 9:54:23 PM com.logger.First main
+WARNING: in catch..java.lang.ArithmeticException: / by zero
+	at com.logger.First.main(First.java:31)
+
+Sept 16, 2023 9:54:23 PM com.logger.First main
+INFO: ending of code...
